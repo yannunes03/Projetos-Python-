@@ -1,0 +1,1 @@
+'''Faça um programa que jogue par ou ímpar '''
