@@ -1,3 +1,8 @@
+'''
+Fazer um programa para ler dois valores inteiros X e Y, e depois mostrar na tela o valor da soma destes
+números
+'''
+
 valor1: int ; valor2: int ; soma: int
 valorx: str ; valory: str
 

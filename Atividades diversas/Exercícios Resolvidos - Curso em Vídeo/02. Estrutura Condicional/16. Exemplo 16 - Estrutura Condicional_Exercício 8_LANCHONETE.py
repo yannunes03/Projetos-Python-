@@ -1,3 +1,10 @@
+'''
+Uma lanchonete possui vários Produtos. Cada produto possui um código e um preço. Você deve fazer um
+programa para ler o código e a quantidade comprada de um produto (suponha um código válido), e daí
+informar qual o valor a ser pago, com duas casas decimais.
+'''
+
+
 codigo = int ; quantidade: int
 ValorAPagar = float
 

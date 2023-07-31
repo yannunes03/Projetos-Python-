@@ -1,3 +1,8 @@
+'''
+Fazer um programa para ler três números inteiros. EM seguida, mostrar qual o menor dentre os três
+números lidos. EM caso de empate, mostrar apenas uma vez.
+'''
+
 x: int ; y: int ; z: int
 
 x = input('Digite o primeiro valor: ')

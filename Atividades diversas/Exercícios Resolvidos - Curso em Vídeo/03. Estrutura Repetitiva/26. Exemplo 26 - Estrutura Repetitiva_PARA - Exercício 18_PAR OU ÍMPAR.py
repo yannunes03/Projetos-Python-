@@ -1,3 +1,10 @@
+'''
+Leia um valor inteiro N. Este valor será a quantidade de números inteiros que serão lidos em seguida.
+Para cada valor lido, mostre uma mensagem dizendo se este valor lido é PAR ou IMPAR, e também se é
+POSITIVO ou NEGATIVO. No caso do valor ser igual a zero (o), seu programa deverá imprimir apenas NULO
+'''
+
+
 N: int ; i: int ; x: int
 ParOuImpar: str ; PositivoOuNegativo: str
 

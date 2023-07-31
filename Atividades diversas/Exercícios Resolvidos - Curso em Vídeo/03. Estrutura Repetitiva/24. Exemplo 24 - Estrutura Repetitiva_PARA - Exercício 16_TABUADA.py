@@ -1,3 +1,7 @@
+'''
+Ler um número inteiro N, daí mstrar na tela a tabuada de N para 1 a 10
+'''
+
 N: int ; x: int
 
 x = int(input('Deseja a tabuada para qual valor ?'))

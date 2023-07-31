@@ -1,3 +1,8 @@
+'''Faça um progrma que leia N números reais e armazene-os em um vetor. Em seguida:
+- Imprimir todos os elementos do vetor
+- Mostrar na tela a soma e a média dos elementos do vetor
+'''
+
 N: int ; Numero: int
 soma: float ; media: float
 

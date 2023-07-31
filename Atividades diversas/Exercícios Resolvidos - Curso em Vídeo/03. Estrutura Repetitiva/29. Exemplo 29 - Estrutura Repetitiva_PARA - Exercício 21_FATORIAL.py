@@ -1,3 +1,8 @@
+'''
+Fazer um programa para ler um número natural N (valor máximo: 15), e depois calcular e mostrar o
+fatorial de N
+'''
+
 N: int ; NFatorial: int ; NFatorial: int
 
 N = int(input('Digite o valor de N: '))

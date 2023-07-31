@@ -1,3 +1,9 @@
+'''
+Fazer um programa para ler o nome de um(a) funcionário(a), o valor que ele(a) receber por hora, e a
+quantidade de horas trabalhadas por ele(a). AO final, mostrar o valor do pagamento do funcionário com
+uma mensagem explicativa, conforme exemplo
+'''
+
 nome: str
 ValorHora: float ; pagamento: float
 HorasTrabalhadas: int
