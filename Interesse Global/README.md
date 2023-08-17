@@ -1,4 +1,4 @@
-#<font color="#1c4587"> **Covid-19 - Cenário Global** </font>
+# Covid-19 - Cenário Global
 
 Através deste relatório busco disponibilizar dados e informações, de forma atualizada, como também realizar algumas análises, quanto à situação
 epidemiológica histórica e atual do coronavírus (COVID-19) no mundo.
